@@ -53,24 +53,6 @@ Meu objetivo é me **profissionalizar completamente em Análise de Dados**, cons
 
 Acredito que dominar ML dentro da análise de dados é o diferencial que transforma insights em **previsões reais**.
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🗺️ Meu Roadmap
 
@@ -114,8 +96,6 @@ Acredito que dominar ML dentro da análise de dados é o diferencial que transfo
 ---
 
 <div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO)
 
 <sub>Feito por João Gabriel • 2025</sub>
 
