@@ -85,8 +85,6 @@ Acredito que dominar ML dentro da análise de dados é o diferencial que transfo
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO)
-
 <sub>Feito por João Gabriel • 2026</sub>
 
 </div>
