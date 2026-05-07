@@ -85,12 +85,21 @@ Acredito que dominar ML dentro da análise de dados é o diferencial que transfo
 
 ---
 
-## 📫 Contato
+## 🌐 Meu Portfólio Profissional
 
 <p align="left">
   <a href="https://joaogabrielamaralsales.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00D4FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20Acessar%20Portfólio-00D4FF?style=for-the-badge&logoColor=white"/>
   </a>
+</p>
+
+> Confira meus projetos, análises e dashboards em: **[joaogabrielamaralsales.netlify.app](https://joaogabrielamaralsales.netlify.app/)**
+
+---
+
+## 📫 Contato
+
+<p align="left">
   <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
