@@ -53,24 +53,6 @@ Meu objetivo é me **profissionalizar completamente em Análise de Dados**, cons
 
 Acredito que dominar ML dentro da análise de dados é o diferencial que transforma insights em **previsões reais**.
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## 🗺️ Meu Roadmap
 
@@ -88,13 +70,13 @@ Acredito que dominar ML dentro da análise de dados é o diferencial que transfo
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-gabriel-amaral-sales-62386b350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="joaogabrielamaralsales@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/Joao-G14" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -105,6 +87,6 @@ Acredito que dominar ML dentro da análise de dados é o diferencial que transfo
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO)
 
-<sub>Feito com ❤️ por João Gabriel • 2025</sub>
+<sub>Feito por João Gabriel • 2026</sub>
 
 </div>
